@@ -1,0 +1,2 @@
+
+print(camera[0])

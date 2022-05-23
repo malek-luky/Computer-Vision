@@ -1,0 +1,1 @@
+.imshow("Cute Kitens", new_img)

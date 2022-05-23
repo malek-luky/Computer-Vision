@@ -1,0 +1,1 @@
+The files are for the Computer Vision course. Aim of the course in applying the algorithm used for e.g. calibrating the cameras and finding the camera matrix. No additional libraries like opencv are used during the course.
